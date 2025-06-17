@@ -2,5 +2,6 @@
 
 * notes
 
-[[https://qiita.com/NorsteinBekkler/items/b2418cd5e14a52189d19]]
+- [[https://siv3d.github.io/ja-jp/tools/gitignore/]]
+- [[https://qiita.com/NorsteinBekkler/items/b2418cd5e14a52189d19]]
 
