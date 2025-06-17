@@ -2,6 +2,10 @@
 
 * notes
 
+<2025-06-17 ‰Î>
+
 - [[https://siv3d.github.io/ja-jp/tools/gitignore/]]
 - [[https://qiita.com/NorsteinBekkler/items/b2418cd5e14a52189d19]]
+- [[https://scrapbox.io/bnscup2023/%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7]]
+- [[https://github.com/sashi0034/Sukuu/tree/main/Sukuu]]
 
